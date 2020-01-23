@@ -11,6 +11,6 @@ Lab tutorials provides students techniques to build a cloud computing infrastruc
 
 ## Lab 3: Vcenter and VM migration
 
-## Lab 4:
+## Lab 4: vSwiches
 
 ## Lab 5:
