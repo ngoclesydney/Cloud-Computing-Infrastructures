@@ -13,4 +13,4 @@ Lab tutorials provides students techniques to build a cloud computing infrastruc
 
 ## Lab 4: vSwiches
 
-## Lab 5:
+## Lab 5: Resources
