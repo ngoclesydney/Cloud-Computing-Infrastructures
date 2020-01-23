@@ -16,3 +16,5 @@ Lab tutorials provides students techniques to build a cloud computing infrastruc
 ## Lab 5: Resources
 
 ## Lab 6: DRS and HA
+
+## Lab 7: Host Profile
